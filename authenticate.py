@@ -8,7 +8,7 @@ SCOPES = ['https://www.googleapis.com/auth/gmail.modify']
 
 def authenticate():
     creds = None
-    # Load token from file
+  
     if os.path.exists('token.pickle'):
         with open('token.pickle', 'rb') as token:
             creds = pickle.load(token)
