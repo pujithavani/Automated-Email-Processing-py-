@@ -1,6 +1,7 @@
-pyforms>=4.0.0
-google-auth>=2.0.0
-google-auth-oauthlib>=0.4.0
-google-api-python-client>=2.0.0
-PyQt5>=5.15.0
-PyQtWebEngine>=5.15.0
+customtkinter==5.2.0
+google-api-python-client==2.70.0
+google-auth==2.20.0
+google-auth-oauthlib==1.0.0
+google-auth-httplib2==0.1.0
+httplib2==0.22.0
+requests==2.31.0
