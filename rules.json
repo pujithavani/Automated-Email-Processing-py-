@@ -1,3 +1,43 @@
 {
-    "rules": []
+    "rules": [
+        {
+            "predicate": "All",
+            "conditions": [
+                {
+                    "field": "from",
+                    "operator": "contains",
+                    "value": "Pujitha vani 221501108"
+                }
+            ],
+            "actions": [
+                "move_to_label:officials"
+            ]
+        },
+        {
+            "predicate": "All",
+            "conditions": [
+                {
+                    "field": "from",
+                    "operator": "contains",
+                    "value": "Zivame"
+                }
+            ],
+            "actions": [
+                "move_to_label:officials"
+            ]
+        },
+        {
+            "predicate": "All",
+            "conditions": [
+                {
+                    "field": "from",
+                    "operator": "contains",
+                    "value": "TechGig Latest News"
+                }
+            ],
+            "actions": [
+                "move_to_label:officials"
+            ]
+        }
+    ]
 }
