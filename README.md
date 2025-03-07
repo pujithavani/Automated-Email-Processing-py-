@@ -14,12 +14,11 @@ A brief and clear description of your project.
 ---
 
 ## 📖 Table of Contents
-1. [Introduction]
-2. [Features]
-3. [Installation]
-4. [Usage]
-5. [Technologies Used]
-
+1. [Introduction](#-introduction)
+2. [Features](#-features)
+3. [Installation](#-installation)
+4. [Usage](#-usage)
+5. [Technologies Used](#-technologies-used)
 
 ---
 
@@ -92,7 +91,7 @@ python gui.py
 ## 📸 Screenshots
 Include screenshots of your project:
 
-![Screenshot](C:\my proj\screenshots)
+![Screenshot](screenshots)
 ---
 
 ## 🏷 Contact
